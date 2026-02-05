@@ -1,4 +1,4 @@
-const route = "https://optima-backend-k2q2.onrender.com"
+const route = "https://optima-backend-alejo.onrender.com"
 
 
 export default route
